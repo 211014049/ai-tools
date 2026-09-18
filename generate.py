@@ -13,7 +13,7 @@ DOCS = os.path.join(ROOT, "docs")
 SITE_NAME = "AI 导航站"
 SITE_TAGLINE = "发现最好的 AI 工具"
 # TODO: 上线后替换为真实域名（例如 https://yourname.github.io 或自定义域名）
-SITE_URL = "https://example.com"
+SITE_URL = "https://211014049.github.io/ai-tools"
 
 # ---------------------------------------------------------------------------
 # 分类数据（15 个分类；前 5 个生成分组页，其余在首页显示"即将上线"）
