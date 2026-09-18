@@ -8,7 +8,7 @@ import json
 import os
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-DOCS = os.path.join(ROOT, "docs")
+DOCS = ROOT  # 网站文件直接输出到仓库根目录（GitHub Pages 部署源为 main / root）
 
 SITE_NAME = "AI 导航站"
 SITE_TAGLINE = "发现最好的 AI 工具"
