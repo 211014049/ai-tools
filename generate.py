@@ -727,6 +727,7 @@ def page(title, desc, path, content, root, jsonld_extra=None, active=""):
 <meta name="twitter:title" content="{full_title}">
 <meta name="twitter:description" content="{desc}">
 <link rel="icon" href="{FAVICON}">
+<meta name="google-site-verification" content="VKlDaiEpSwFJMstdGA2OyU6zg6as5YLcQUNNLompxkk" />
 {ld_scripts}
 {AD_BANNER.replace("<div class=", "<!--see-below--><div class=", 1) if False else ""}
 <link rel="stylesheet" href="{root}static/style.css">
